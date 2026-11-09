@@ -4,11 +4,11 @@ public class Main {
  
         Miembro1.presentar();
  
-        // Membro2.presentar();
+        Miembro2.presentar();
  
-        // Membro3.presentar();
+        Miembro3.presentar();
  
-        // Membro4.presentar();
+        Miembro4.presentar();
 
         System.out.println("=== Fin ===");
     }
